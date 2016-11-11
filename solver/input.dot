@@ -1,0 +1,4 @@
+graph esempio3 {
+a--b--c--d--e--f--a--c--e;
+z1--z2--z3--z1;
+}

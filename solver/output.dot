@@ -1,0 +1,11 @@
+digraph esempio3 {
+b->a;
+c->b;
+c [label="c: h(c)=3"];
+c->d;
+d->e;
+e->f;
+z2->z1;
+z2 [label="z2: h(z2)=1"];
+z2->z3;
+}
